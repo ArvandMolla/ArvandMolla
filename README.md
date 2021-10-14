@@ -5,6 +5,7 @@
 ### About Me
 I'm a full-stack JS developer with around 15 years of experience as IT project manager, product owner, Chief R&D officer, UI/UX designer and Scrum coach.
 
+### ---------------------------------
 
 
 ### Languages and Technologies
@@ -30,20 +31,22 @@ I'm a full-stack JS developer with around 15 years of experience as IT project m
 ![gcp](https://user-images.githubusercontent.com/80462107/137309546-ad3ceea5-0ff4-4677-87d7-1f02b2cd233d.png)
 ![agile-logo](https://user-images.githubusercontent.com/80462107/137309559-e6d7609d-37db-4e97-9fe5-ef5598eb014b.png)
 
-
+### --------------------
 ### My Latest Project
 Here is the link to a 4 min video of my latest project demo:
 [Watch on Youtube](https://www.youtube.com/watch?v=T8RUoKBPZRM&list=PLIz8i-HCdhvkeJKmje4IEon5yvFTD6XCk&index=10)
 
 
-
-
-
-
+### -------------
 ### Contact Me
 
 ###### ⚡ [My Linkedin](https://www.linkedin.com/in/arvandmolla/)
 ###### ⚡ [My Portfolio](https://www.arvand-molla.com)
+
+
+
+
+### -------------
 
 ### 😄 Fun Fact
 I recently wiped off around 90% of my repositories in order to keep only the useful ones, but I ended up loosing all my activities related to those repos as well 🙈 
