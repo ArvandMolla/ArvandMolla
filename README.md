@@ -45,7 +45,8 @@ Here is the link to a 4 min video of my latest project demo:
 ###### ⚡ [My Linkedin](https://www.linkedin.com/in/arvandmolla/)
 ###### ⚡ [My Portfolio](https://www.arvand-molla.com)
 
-
+### 😄 Fun Fact
+I recently wiped off around 90% of my repositories in order to keep only the useful ones, but I ended up loosing all my activities related to those repos as well 🙈 
 
 
 
