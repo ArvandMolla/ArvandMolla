@@ -49,7 +49,7 @@ Here is the link to a 4 min video of my latest project demo:
 ### -------------
 
 ### 😄 Fun Fact
-I recently wiped off around 90% of my repositories in order to keep only the useful ones, but I ended up loosing all my activities related to those repos as well 🙈 
+I recently wiped off around 90% of my repositories in order to keep only the useful ones, but I ended up loosing all my contribution activities related to those repos as well 🙈 
 
 
 
